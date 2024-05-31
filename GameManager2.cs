@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//Hardのゲームマネージャー
 public class GameManager2 : MonoBehaviour
 {
     public enum Wave
