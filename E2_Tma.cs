@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//Hardの中ボスの弾
 public class E2_Tma : MonoBehaviour
 {
     public float speed = 3.0f; // 追尾速度
